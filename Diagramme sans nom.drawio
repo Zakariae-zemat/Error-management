@@ -13,7 +13,7 @@
         <mxCell id="MHBwTxHA1vKE9ZI1iYVR-36" value="BD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MHBwTxHA1vKE9ZI1iYVR-37" value="Servise" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MHBwTxHA1vKE9ZI1iYVR-37" value="Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MHBwTxHA1vKE9ZI1iYVR-38" value="Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
