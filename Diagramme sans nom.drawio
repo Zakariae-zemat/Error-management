@@ -204,21 +204,21 @@
         </mxCell>
         <mxCell id="MHBwTxHA1vKE9ZI1iYVR-79" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="715" y="810" as="sourcePoint" />
-            <mxPoint x="570" y="810" as="targetPoint" />
+            <mxPoint x="715" y="800" as="sourcePoint" />
+            <mxPoint x="570" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MHBwTxHA1vKE9ZI1iYVR-80" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Retour : chambre disponible ou non&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="790" width="150" height="10" as="geometry" />
+          <mxGeometry x="570" y="780" width="150" height="10" as="geometry" />
         </mxCell>
         <mxCell id="MHBwTxHA1vKE9ZI1iYVR-81" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="555" y="853" as="sourcePoint" />
-            <mxPoint x="410" y="853" as="targetPoint" />
+            <mxPoint x="555" y="800" as="sourcePoint" />
+            <mxPoint x="410" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MHBwTxHA1vKE9ZI1iYVR-82" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Résultats des chambres disponibles&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="833" width="150" height="10" as="geometry" />
+        <mxCell id="MHBwTxHA1vKE9ZI1iYVR-82" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Résultat de la disponibilité&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="780" width="150" height="10" as="geometry" />
         </mxCell>
         <mxCell id="MHBwTxHA1vKE9ZI1iYVR-83" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -237,6 +237,60 @@
         </mxCell>
         <mxCell id="MHBwTxHA1vKE9ZI1iYVR-86" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Afficher les chambres disponibles&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="833" width="150" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="MHBwTxHA1vKE9ZI1iYVR-88" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="850" as="sourcePoint" />
+            <mxPoint x="555" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHBwTxHA1vKE9ZI1iYVR-89" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Créer la réservation&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="833" width="150" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="MHBwTxHA1vKE9ZI1iYVR-90" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="572.5" y="849.5" as="sourcePoint" />
+            <mxPoint x="717.5" y="849.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHBwTxHA1vKE9ZI1iYVR-91" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Insérer les informations de réservation&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="825.5" width="167.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="MHBwTxHA1vKE9ZI1iYVR-92" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="713.75" y="900" as="sourcePoint" />
+            <mxPoint x="568.75" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHBwTxHA1vKE9ZI1iYVR-93" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Confirmation de la réservation&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="568.75" y="880" width="150" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="MHBwTxHA1vKE9ZI1iYVR-94" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="555" y="900" as="sourcePoint" />
+            <mxPoint x="410" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHBwTxHA1vKE9ZI1iYVR-95" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Réservation créée avec succès&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="880" width="150" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="MHBwTxHA1vKE9ZI1iYVR-96" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="395" y="900" as="sourcePoint" />
+            <mxPoint x="250" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHBwTxHA1vKE9ZI1iYVR-97" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Transmettre la confirmation de réservation&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="880" width="150" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="MHBwTxHA1vKE9ZI1iYVR-98" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="235" y="900" as="sourcePoint" />
+            <mxPoint x="90" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHBwTxHA1vKE9ZI1iYVR-99" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Afficher la confirmation de réservation&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="880" width="150" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
